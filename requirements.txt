@@ -1,0 +1,13 @@
+fastapi==0.110.3
+pymupdf==1.21.1
+opencv-python==4.6.0.66
+layoutparser==0.3.4
+paddlepaddle-gpu==2.6.2
+paddleocr==2.7.3
+pillow==10.2.0
+numpy==1.26.3
+requests==2.32.2
+boto3==1.35.24
+transformers==4.44.2
+ultralytics==8.2.100
+python-multipart==0.0.9
